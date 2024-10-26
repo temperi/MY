@@ -20,7 +20,7 @@ namespace post
             LoadDataIntoDataGridView();
 
         }
-
+        // коды
         private void LoadDataIntoDataGridView()
         {
             string selectQuery = "SELECT * FROM Equipment";
